@@ -9,10 +9,8 @@ Umbau für Creality Ender 3, färbt Druckobjekte mit Filzstiften ein
 
 ### Mit diesem Umbausatz kann der Ender 3 Objekt mit bis zu sieben Garben drucken.
 
-![Picture](https://github.com/MakeMagazinDE/CoffeeGuard/blob/main/Aufmacher.jpg)
+![Picture](https://github.com/MakeMagazinDE/Farb-3D-Drucker/blob/main/Farbdrucker.JPG)
 
-Hier finden Sie das Programm zur Mausefalle. 
+[Hier](https://github.com/Sakati84/3DPrintColorizer) finden Sie die Github-Seite mit der Software und den 3D-Druck-Dateien. 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/22 ab Seite 40](https://www.heise.de/select/make/2022/3/2205311170134682868) ** zu lesen
-
-Die Anleitung zur Software gibt es [hier.](https://heise.de/-7101685) 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 3/22 ab Seite 92](https://www.heise.de/select/make/2022/3/2129508532270595271) ** zu lesen
