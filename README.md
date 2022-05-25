@@ -7,7 +7,7 @@ Maker Media GmbH
 
 Umbau für Creality Ender 3, färbt Druckobjekte mit Filzstiften ein
 
-### Mit diesem Umbausatz kann der Ender 3 Objekt mit bis zu sieben Garben drucken.
+### Mit diesem Umbausatz kann der Ender 3 Objekt mit bis zu sieben Farben drucken.
 
 ![Picture](https://github.com/MakeMagazinDE/Farb-3D-Drucker/blob/main/Farbdrucker.JPG)
 
